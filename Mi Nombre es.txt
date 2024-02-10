@@ -2,4 +2,4 @@ SOY EDILBERTO YAEL PEREZ LOPEZ
 
 Mi apodo es edil
 
-ESTA ES LA PRUEBA CON LA CONEXION EN SSH
+Bueno, ya no es la prueba con ssh, es prueba con github y ssh
